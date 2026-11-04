@@ -1,0 +1,72 @@
+[
+  {
+    "term": "Haemoglobin",
+    "simple_explanation": "Haemoglobin is a protein found in red blood cells that carries oxygen from the lungs to the rest of the body and returns carbon dioxide back to the lungs.",
+    "category": "Blood Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/hemoglobin-test/"
+  },
+  {
+    "term": "RBC",
+    "simple_explanation": "Red Blood Cells (RBC) are the most common type of blood cell. They transport oxygen throughout the body using haemoglobin and give blood its red colour.",
+    "category": "Blood Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-count/"
+  },
+  {
+    "term": "WBC",
+    "simple_explanation": "White Blood Cells (WBC) are cells of the immune system that help the body fight infection and other diseases. An abnormal WBC count may indicate infection, inflammation, or a blood disorder.",
+    "category": "Blood Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/white-blood-cell-wbc-count/"
+  },
+  {
+    "term": "Platelets",
+    "simple_explanation": "Platelets are tiny blood cells that help the body form clots to stop bleeding. A low platelet count can lead to excessive bleeding; a high count may increase clotting risk.",
+    "category": "Blood Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/platelet-count/"
+  },
+  {
+    "term": "Blood Glucose",
+    "simple_explanation": "Blood glucose is the amount of sugar (glucose) present in the blood. It is the body's main source of energy. Abnormal levels may indicate diabetes or hypoglycaemia.",
+    "category": "Metabolic Panel",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/blood-glucose-test/"
+  },
+  {
+    "term": "Cholesterol",
+    "simple_explanation": "Cholesterol is a fatty substance found in the blood. While the body needs some cholesterol to build cells, high levels of LDL cholesterol can increase the risk of heart disease and stroke.",
+    "category": "Lipid Panel",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/cholesterol-levels/"
+  },
+  {
+    "term": "Triglycerides",
+    "simple_explanation": "Triglycerides are a type of fat found in the blood. High triglyceride levels combined with high cholesterol can increase the risk of cardiovascular disease.",
+    "category": "Lipid Panel",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/triglycerides-test/"
+  },
+  {
+    "term": "Creatinine",
+    "simple_explanation": "Creatinine is a waste product produced by muscles from the breakdown of creatine. The kidneys filter creatinine out of the blood; elevated levels may suggest reduced kidney function.",
+    "category": "Kidney Function",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/creatinine-test/"
+  },
+  {
+    "term": "Haematocrit",
+    "simple_explanation": "Haematocrit measures the proportion of red blood cells in the total volume of blood, expressed as a percentage. Abnormal values may indicate anaemia or dehydration.",
+    "category": "Blood Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/hematocrit-test/"
+  },
+  {
+    "term": "Vitamin D",
+    "simple_explanation": "Vitamin D is a fat-soluble vitamin essential for calcium absorption and bone health. Low levels are associated with bone weakness, immune dysfunction, and fatigue.",
+    "category": "Vitamin & Mineral Test",
+    "source": "MedlinePlus – U.S. National Library of Medicine",
+    "reference_url": "https://medlineplus.gov/lab-tests/vitamin-d-test/"
+  }
+]
